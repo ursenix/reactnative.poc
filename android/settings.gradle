@@ -1,0 +1,3 @@
+rootProject.name = 'firstreactapp'
+
+include ':app'
