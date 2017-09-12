@@ -11,13 +11,13 @@ import {
   Text,
   View
 } from 'react-native';
-import Component2 from './app/components/component2/component2';
+import Component3 from './app/components/component3/component3';
 
 export default class firstreactapp extends Component {
   render() {
     return (
       <View>
-        <Component2 />
+        <Component3 />
       </View>
     );
   }
